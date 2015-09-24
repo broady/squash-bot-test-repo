@@ -1,0 +1,1 @@
+# squash-bot-test-repo
